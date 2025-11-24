@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Suhel Zende
 
-**Senior Software Engineer @ W Energy | Seven Lakes Technologies**  
+**Senior Software Engineer @ W Energy**  
 5+ years of experience in backend engineering, product development, and building reliable systems.  
 Previously worked on ANZ GoBiz and contributed to large-scale enterprise applications.
 
